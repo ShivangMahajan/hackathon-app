@@ -1,0 +1,20 @@
+{
+    "logs": [
+        {
+            "outputFile": "/home/sabbey/Downloads/Project2/app/build/intermediates/incremental/mergeDebugResources/merged.dir/values-hdpi-v4/values-hdpi-v4.xml",
+            "map": [
+                {
+                    "source": "/home/sabbey/.gradle/caches/transforms-2/files-2.1/b7c67f4ac61c6b16e39452ab35f5f591/res/values-hdpi-v4/values-hdpi-v4.xml",
+                    "from": {
+                        "startLines": "2",
+                        "startColumns": "4",
+                        "startOffsets": "55",
+                        "endLines": "6",
+                        "endColumns": "13",
+                        "endOffsets": "327"
+                    }
+                }
+            ]
+        }
+    ]
+}

@@ -1,0 +1,41 @@
+<?xml version="1.0" encoding="utf-8"?>
+<RelativeLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    android:layout_width="match_parent" android:layout_height="match_parent"
+    android:background="#fff">
+
+    <Button
+        android:id="@+id/sos"
+        android:layout_width="250dp"
+        android:layout_height="250dp"
+        android:layout_centerHorizontal="true"
+        android:layout_centerVertical="true"
+        android:background="@drawable/sos"
+        android:text="@string/sos"
+        android:textColor="#fff"
+        android:textSize="35sp" />
+
+    <TextView
+        android:id="@+id/Note1"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_alignParentBottom="true"
+        android:layout_centerHorizontal="true"
+        android:layout_marginBottom="44dp"
+        android:text="By pressing SOS button, an emergency"
+        android:textColor="#00584C"
+        android:textSize="19sp"
+        />
+
+
+    <TextView
+        android:id="@+id/Note2"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_alignParentBottom="true"
+        android:layout_centerHorizontal="true"
+        android:layout_marginBottom="16dp"
+        android:text="message will be sent to your contacts added"
+        android:textColor="#00584C"
+        android:textSize="19sp"
+        />
+</RelativeLayout>
